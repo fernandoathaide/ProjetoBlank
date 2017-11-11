@@ -1,0 +1,19 @@
+dois usuários (Adelio e DETRAN)
+	- 3 socios e dois funcionarios;
+	- 1 usuário detran para Visualização.
+	
+QRCode (1 - placa dianteira e 1 - placa traseira)
+Informaçoes do Códe (Dados do adelio, dados do operário que realizou a estampagem)
+
+Tipos de veiculos
+	com duas placas(carro, caminhão, onibus, taxi/uber, embaixada ...)
+	com uma placa(moto, reboque, carreta do caminhão ...)
+
+Tipos de placa (cinza, branca, azul, vermelha ...)	
+
+Manter placas blnk (Entrada das placas e saidas)
+Manter usuário (
+	Usuário 'detran' apenas visualiza,
+	Funcionário estampador alterar o status da placa de blank para estampada, Administrador socios Adcionar ususario, dar entrada e saída das blank.
+	)
+
